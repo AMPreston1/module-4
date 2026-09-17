@@ -1,0 +1,58 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: red;
+}
+
+.header {
+  background-color: black;
+  color: #fff;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 40px;
+  text-indent: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: darkgrey;
+}
+
+a:active {
+  color: darkgrey;
+}
+
+ul {
+  list-style-type: none;
+  padding: 10;
+}
+
+ul.to-do-list {
+  background-color: #f4f4f4;
+  text-indent: 10px;
+  text-transform: uppercase;
+}
+
+ol {
+  list-style-type: none;
+  padding: 10;
+}
+
+ol.must-see-events {
+  background-color: #f4f4f4;
+  text-indent: 10px;
+  text-transform: uppercase;
+}
+
+p.lead {
+  font-size: 20px;
+  color: darkgrey font-weight;
+  bold:;
+}
